@@ -1,4 +1,4 @@
-package POOpoli;
+package PolimPOO;
 
 public class Preguiça extends Animal
 {

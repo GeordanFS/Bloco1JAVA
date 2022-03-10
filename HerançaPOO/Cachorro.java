@@ -1,4 +1,4 @@
-package POO;
+package HerançaPOO;
 
 public class Cachorro extends Animal
 {
