@@ -1,7 +1,6 @@
 package HerançaPOO;
 
 public class Animais {
-
 	public static void main(String[] args) 
 	{
 		Cachorro dog = new Cachorro();
